@@ -58,8 +58,8 @@ Tugas kalian adalah, buat file html baru dan tulisakan identitas kalian sesuai f
 </html>
 ```
 
-Setelah file baru sudah dibuat, jangan lupa disave, add, commit, push ke branch masing masing. Check perubahan dengan `git status`
-urutan perintahnya adalah sebagai berikut:
+Setelah file baru sudah dibuat, jangan lupa disave, add, commit, push ke branch masing masing (cek perubahan dengan `git status`).
+Urutan perintah untuk sampai ke `push` adalah sebagai berikut:
 ```bash
 git status
 
